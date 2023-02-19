@@ -1,5 +1,5 @@
 ## Edu For All DAO
-Demo: https://imhab1-client.vercel.app/
+Demo: https://imhab1-client.vercel.app/ <br/>
 Video: https://youtu.be/s0TeDw4927Q
 
 ### The problems we solve
